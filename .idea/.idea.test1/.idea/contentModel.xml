@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.2/resharper-host/local/Transient/Rider/v202/SolutionCaches/_test1.-525128650.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="test1" t="IncludeRecursive">
+        <e p="CounterMiddleware.cs" t="Include" />
+        <e p="DateMiddleware.cs" t="Include" />
+        <e p="FIOMiddleware.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="Counter.cs" t="Include" />
+          <e p="CounterService.cs" t="Include" />
+          <e p="DateService.cs" t="Include" />
+          <e p="FIO.cs" t="Include" />
+          <e p="FIOService.cs" t="Include" />
+          <e p="GetDate.cs" t="Include" />
+          <e p="I5.cs" t="Include" />
+          <e p="I6.cs" t="Include" />
+          <e p="ICounter.cs" t="Include" />
+          <e p="IDate.cs" t="Include" />
+          <e p="IFIO.cs" t="Include" />
+          <e p="ITime.cs" t="Include" />
+          <e p="SfiveMiddleware.cs" t="Include" />
+          <e p="SsixMiddleware.cs" t="Include" />
+          <e p="TTimeMiddleware.cs" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="net5.0" t="Include">
+              <e p="test1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="test1.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="test1.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
